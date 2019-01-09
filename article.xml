@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model 
+    href="./relax.rnc" 
+    type="application/relax-ng-compact-syntax"?>
+
+<article magazine="OwO" type="sport" annee="2019">
+    <titre couleur="rouge"></titre>
+</article>
