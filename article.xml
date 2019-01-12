@@ -4,6 +4,22 @@
     href="./relax.rnc" 
     type="application/relax-ng-compact-syntax"?>
 
-<article magazine="OwO" type="sport" annee="2019">
-    <titre couleur="rouge"></titre>
+<article magazine="OwO" type="beaute" annee="2019">
+    <titre couleur="rouge">Titrestitres</titre>
+	<soustitre>Soustitresoustitre</soustitre>
+	<paragraphe>
+	    <phrase>Hello World!</phrase>
+		<phrase>Goodbye World!</phrase>
+	</paragraphe>
+	<paragraphe>
+	    <phrase>Mon Vieux, Tu M'as Jete Sur Une Navette.</phrase>
+	</paragraphe>
+	<paragraphe>
+	    <phrase>The quick brown fox jumps over the lazy dog</phrase>
+	</paragraphe>
+	<source src="http://www.drivemeinsane.com/" annee="2019"></source>
+	<auteur>
+	    <nom>Smith</nom>
+		<prenom>Gertil</prenom>
+	</auteur>
 </article>
